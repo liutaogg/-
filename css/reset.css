@@ -1,0 +1,19 @@
+html, body, ul, ol, li, dl, dd, dt, p, a, img, div, span {
+  margin: 0;
+  padding: 0; }
+
+img {
+  border: none;
+  display: block; }
+
+ul, ol, li {
+  list-style: none; }
+
+em, i {
+  font-style: normal; }
+
+strong, b h1 {
+  font-weight: normal; }
+
+a {
+  text-decoration: none; }
